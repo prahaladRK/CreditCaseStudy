@@ -1,1 +1,1 @@
-# sample
+# Credit Card Defaulter Case Study
